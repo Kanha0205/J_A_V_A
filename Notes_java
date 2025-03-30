@@ -9,3 +9,11 @@ pascal case convestion are used in first latter of the word are must be capital.
 The camel case convestion are use each of word are must be capital, non of single value.
 array ?
 --  main reson use array it's fster to access,   array is shorcut variable that cantain huge data store ealsly, there benifis is, it's user friendly.
+--- array is datatype colextion of simmiler type of data in multiple dimantion
+--- arrya has unick loop called as a for each loop(fastest loop)
+---  while array is a collection of data and if we use  loop also give a faster display
+multyple Dimantion array?
+----- one dimantion array values are only values.
+---  multydimantion array means the arrays values are values with array, menase the values are convert to arrays array.
+---- array starting with elements are stating wtih 0,1,2,3.......
+----- 
