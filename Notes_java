@@ -16,7 +16,16 @@ multyple Dimantion array?
 ----- one dimantion array values are only values.
 ---  multydimantion array means the arrays values are values with array, menase the values are convert to arrays array.
 ---- array starting with elements are stating wtih 0,1,2,3.......
------ what is method in java ?
+----- what is method ?
 method is used into a class, method is a type of rules set in class to follow.
 mehods of java have a logical method, meanse the other class method implimante in currunt class.
-logic method use only id class method are remove static syntex.
+method of java is not same as a class's functions.
+there are two types of oprations 
+1, static call
+2, objective call
+method are reduced codes, it mange by calling classes save method, the benefit it the repetition and time, and space are save.
+
+
+
+
+
