@@ -22,17 +22,19 @@ mehods of java have a logical method, meanse the other class method implimante i
 method of java is not same as a class's functions.
 there are two types of oprations 
 1, static call
-2, unstaating obj.call.
+2, unstaating obj.call
+
+-------------method Overl;oding
 ------- what is void ?
 void means n retrun nothing.
-
-
-
-
-
-2, objective call
-method are reduced codes, it mange by calling classes save method, the benefit it the repetition and time, and space are save.
-
+void meaning the program print a code but they doesn't change, always same.
+--------------what is static Keyword ?
+sattic meanse stay, the code you are written in parent class, but call evey class child or other classes.
+---------- what is the changing  intiger and , unchanging intiger.
+changing intiger meanse without apply static code, you would change the value of every class value.
+----------can we change the intiger value with static code ?
+yes, with help of array you can manuplate the values of any array's adress, it could possible becaouse, array doesn't change
+value 
 
 
 
