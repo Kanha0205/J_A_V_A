@@ -34,7 +34,11 @@ sattic meanse stay, the code you are written in parent class, but call evey clas
 changing intiger meanse without apply static code, you would change the value of every class value.
 ----------can we change the intiger value with static code ?
 yes, with help of array you can manuplate the values of any array's adress, it could possible becaouse, array doesn't change
-value 
+values.
+-----------------What is extend means ?------
+the extended meanse subclass call the  parantclass access their property's.
+Super class is a constructor class, it call automaticly befor subclass.
+
 
 
 
