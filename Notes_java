@@ -39,6 +39,12 @@ values.
 the extended meanse subclass call the  parantclass access their property's.
 Super class is a constructor class, it call automaticly befor subclass.
 
+----------------constructor---inheritance------------------
+constructor inherite there method which was, he woude be created for con... inherite.
+C1 - Parent
+C2 - child
+C3 - Grand child
+
 
 
 
