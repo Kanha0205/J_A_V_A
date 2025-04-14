@@ -45,6 +45,19 @@ C1 - Parent
 C2 - child
 C3 - Grand child
 
+-------method of overridng ?------
+a child class applay the method to use parant class properties, is know as method of overriding.
+
+-------------@overide?-----
+override is a method, but @iverride method is a aware your class override or not.
+
+
+-----------what is abstract class means?-------------
+abstract class mean that class who work as a storage, ya modify lirarys.
+abstract class are not use for oops.
+
+
+
 
 
 
