@@ -53,8 +53,21 @@ override is a method, but @iverride method is a aware your class override or not
 
 
 -----------what is abstract class means?-------------
+a small defination is a abstract class meanse at least one abstract codeline are avilable.
 abstract class mean that class who work as a storage, ya modify lirarys.
-abstract class are not use for oops.
+abstract class are not use for oops, abstract class is basically use for create a more class in a java project.
+
+
+-----------What is interfence ?..............
+interface is group of methods.
+interface meanse is face of code, in progranmning word. the interface is a outer layer of oops.
+interface is help to coder useing the product.
+  
+-----------What is conection bitween abstract and interface in java ?..............
+main diffrance interface properties appaly menedotry but, abstraction are not.
+
+types of abrstract class are not creates non of the class, but interface creat a types of classes.
+
 
 
 
