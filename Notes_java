@@ -72,8 +72,19 @@ types of abrstract class are not creates non of the class, but interface creat a
 2,compile
 java is both language. java convert by bitcode then you comiple anywhere,any operating system.
 ---------------default is modifiers?
-no default modifiers is a   
+default modifiers is not a modifiers, it just a normal if you type default then system take it defaut value.
 
+-------what is parameter ?
+parameter  meanse we give a name, for use input, that make connection bitween input and output.
+
+-------What is argument ?
+argumets is a intput of parameters. when in a method we give a asuming alabet or etc, give them a value is called arguments.
+
+-----------What is Concurrennt ?
+This method is used for threading, for multyple codeing.
+
+-----------What is paralisum ?
+Paralisam is meanse one by one, sequensly or follow the sequence.
 
 
 
